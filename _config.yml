@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "avater.png"
+  name             : "Jiechao He"
+  pronouns         :   
+  bio              : "我目前的研究兴趣主要集中在**三维重建 (3D Reconstruction)**，更具体地说是**人体三维重建 (Human Mesh Recovery, HMR)** 方向。我致力于探索如何从单张图像或视频中，精确、高效地恢复出人体的三维网格模型和姿态"
+  location         : "CN"
+  employer         : "Shenzhen University"
+  uri              : https://accelerator1237.github.io/Jiechao-He.github.io/
+  email            : "hejiechao1024@outlook.com/3170347411@qq.com" 
 
   # Academic websites
   academia         : # URL
