@@ -25,11 +25,11 @@ author:
   avatar           : "avater.png"
   name             : "Jiechao He"
   pronouns         :   
-  bio              : 
+  bio              : "hello world"
   location         : "CN"
   employer         : "Shenzhen University"
-  uri              : https://accelerator1237.github.io/Jiechao-He.github.io/
-  email            : 
+  uri              : "https://accelerator1237.github.io/Jiechao-He.github.io/"
+  email            : "3170347411@qq.com"
 
   # Academic websites
   academia         : # URL
